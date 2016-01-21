@@ -1,6 +1,6 @@
 //This will run the tutorial laid out at
 // http://www.raywenderlich.com/85900/arduino-tutorial-integrating-bluetooth-le-ios-swift
-// Here are some test changes
+// Here's a change
 
 int LED = 13; //LED pin
 
